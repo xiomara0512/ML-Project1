@@ -1,0 +1,6 @@
+1 Caminar
+2 Subir escaleras
+3 Bajar escaleras
+4 Sentado
+5 De pie
+6 Acostado
